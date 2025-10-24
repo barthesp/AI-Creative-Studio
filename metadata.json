@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI Creative Suite",
+  "description": "Generate different camera angles, create images from text, edit existing images, and generate videos from a single photo.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
